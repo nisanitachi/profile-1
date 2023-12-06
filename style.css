@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:url("https://cdn.discordapp.com/attachments/1117028520313491526/1178171479163162666/oqkhwsxc8ida1.png?ex=65752cb2&is=6562b7b2&hm=f6924102716faaed268a5fa7cf0ec0872669482f3763dedad7be47ad1bf7ce66&");
+    background-size: cover;
+
+  
+}
+.box{
+    width: 600px;
+   height:fit-content;
+   border: 2px solid #c76f85;
+   box-shadow:0 0 25px #6f9bc7;
+    background:rgba(0, 0, 0, 0.705);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    border-radius: 15%;
+    color: rgb(255, 253, 253);
+    font-family:'Comfortaa',sans-serif;
+}
+.boximg {border-radius: 50%;
+    width: 160px;
+    height:160px;
+}
+.box h1{
+    font-size: 40px;
+    font-weight: 100;
+    letter-spacing: 4px;
+    margin-bottom: 10px;
+
+}
+.box h5{
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    margin-top:0;
+    }
+.box p{
+    text-align: center;
+    letter-spacing:1px;
+    line-height:24px;
+
+   
+
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    border-radius: 50%;
+    width: 60px;
+    
+    display: inline-block;
+    padding: 20px;
+    
+    list-style: none;}
+.box li a{
+    fill: white;
+    text-decoration: none;
+    transition: all ease-in-out;
+
+}
+.box li svg:hover{
+    background-color:rgba(109, 100, 100, 0.5);
+    border-radius: 25%;
+    width: 65px;
+    height: 65px;
+}
+
+
